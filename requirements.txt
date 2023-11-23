@@ -1,0 +1,7 @@
+Flask==2.2.5
+Werkzeug==2.2.2
+Jinja2==3.0
+Flask-Login
+flask-paginate
+ipython
+pandas
